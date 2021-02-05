@@ -2,11 +2,7 @@
 
 - 🔭 I’m full stack developer with 6+ years of experience and passionate about web technologies like ASP.NET MVC Core, C#, JavaScript, Angular, SQL Server and SharePoint Online (Microsoft), Azure. 
 - 🌱 I worked on major projects for the private industry in various domain like e-discovery, tax and finance, e-commerce, document management, cms.
-- 📫 How to reach me: jay.agrawal2011@live.com
-[Blog](https://crack-codes.blogspot.com/)
-[CSharpCorner]https://www.c-sharpcorner.com/members/jayesh-agrawal3
-[The Techie Crunch](https://jayeshagrawal.github.io/)
-
+- 📫 How to reach me: [jay.agrawal2011@live.com]
 <!--
 **JayeshAgrawal/jayeshagrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
