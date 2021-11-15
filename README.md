@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m full stack developer with 6+ years of experience and passionate about web technologies like ASP.NET MVC Core, C#, JavaScript, Angular, SQL Server and SharePoint Online (Microsoft), Azure. 
+- 🔭 I’m full stack developer with 8+ years of experience and passionate about web technologies like ASP.NET MVC Core, C#, JavaScript, Angular, SQL Server and SharePoint Online (Microsoft), Azure. 
 - 🌱 I worked on major projects for the private industry in various domain like e-discovery, tax and finance, e-commerce, document management, cms.
 - 📫 Contact me on jay.agrawal2011@live.com.
 <!--
