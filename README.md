@@ -1,5 +1,5 @@
 # Jayesh Agrawal
-**Leading Full-Stack Solution Development | E-Discovery, FinTech, SaaS**  
+** Leading Full-Stack Solution Development | .NET, Azure, AI Agent Ecosystems | E-Discovery, FinTech, SaaS**  
 ---
 
 ### 🛠 Tech Stack
