@@ -1,19 +1,46 @@
-### Hi there 👋
+# Jayesh Agrawal
 
-- 🔭 I’m full stack developer with 8+ years of experience and passionate about web technologies like ASP.NET Core, C#, JavaScript, Angular, SQL Server and SharePoint Online (Microsoft), Azure. 
-- 🌱 I worked on major projects for the private industry in various domain like e-discovery, tax and finance, e-commerce, document management, cms.
-- 📫 Contact me on jay.agrawal2011@live.com.
-<!--
-**JayeshAgrawal/jayeshagrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical Lead - Leading Full-Stack Solution Development | .NET, Azure, AI Agent Ecosystems | 11+ Years | E-Discovery, FinTech, SaaS**  
+*Specializing in scalable web applications, CMS platforms, and AI Agentic Ecosystems*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+**Backend:** .NET, ASP.NET Core, C#, Web API, SQL Server, Entity Framework  
+**Frontend:** Angular, TypeScript, JavaScript, jQuery, HTML/CSS  
+**Cloud & DevOps:** Azure, Docker, CI/CD, Azure DevOps  
+**Microsoft Ecosystem:** SharePoint Online, Microsoft 365, Power Platform  
+**AI & Data:** Python, AI Agents, LangChain, Semantic Search, NoSQL
+---
+
+### 📈 Experience Highlights
+- **11+ years** in enterprise software development
+- Led major projects across **E-Discovery, Tax, Hospitality, and CMS** domains
+- Built **custom CMS platforms** with focus on scalability and performance
+- **Technical leadership** of cross-functional Agile teams
+- **Microsoft technology evangelist** and technical writer
+
+---
+
+### ✍️ Technical Writing
+I regularly write about .NET, Azure, and web development:
+- [The Techie Crunch's Blog](https://jayeshagrawal.github.io/)
+- [C# Corner Articles](https://www.c-sharpcorner.com/members/jayesh-agrawal3)
+- Sharing knowledge through practical tutorials and architectural insights
+
+---
+
+### 🔭 Open Source Interests
+Looking to contribute to projects involving:
+- .NET Core libraries and utilities
+- AI/ML tools and Agentic frameworks
+- Developer tools and productivity enhancers
+- CMS and document management systems
+
+---
+
+### 📫 Let's Connect
+- **LinkedIn**: [Jayesh Agrawal](https://www.linkedin.com/in/jayeshagrawal001/)
+- **Blog**: [The Techie Crunch's Blog](https://jayeshagrawal.github.io/)
+- **Email**: jay.agrawal2011@live.com
+
