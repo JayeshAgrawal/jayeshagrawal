@@ -10,7 +10,6 @@ Microsoft Ecosystem: SharePoint Online, Microsoft 365, Power Platform
 AI & Data: Python, AI Agents Ecosystems, LangChain, Semantic Search, NoSQL 
 
 ### 📈 Experience Highlights
-- **11+ years** in enterprise software development
 - Led major projects across **E-Discovery, Tax, Hospitality, and CMS** domains
 - Built **custom CMS platforms** with focus on scalability and performance
 - **Technical leadership** of cross-functional Agile teams
