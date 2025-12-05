@@ -1,5 +1,5 @@
 # Jayesh Agrawal
-**Technical Lead - Leading Full-Stack Solution Development | E-Discovery, FinTech, SaaS**  
+**Leading Full-Stack Solution Development | E-Discovery, FinTech, SaaS**  
 ---
 
 ### 🛠 Tech Stack
