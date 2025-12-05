@@ -3,11 +3,11 @@
 ---
 
 ### 🛠 Tech Stack
-Backend: .NET, ASP.NET Core, C#, Web API, SQL Server, Entity Framework  
-Frontend: Angular, TypeScript, JavaScript, jQuery, HTML/CSS  
-Cloud & DevOps: Azure, Docker, CI/CD, Azure DevOps  
-Microsoft Ecosystem: SharePoint Online, Microsoft 365, Power Platform  
-AI & Data: Python, AI Agents Ecosystems, LangChain, Semantic Search, NoSQL 
+**Backend:** .NET, ASP.NET Core, C#, Web API, SQL Server, Entity Framework  
+**Frontend:** Angular, TypeScript, JavaScript, jQuery, HTML/CSS  
+**Cloud & DevOps:** Azure, Docker, CI/CD, Azure DevOps  
+**Microsoft Ecosystem:** SharePoint Online, Microsoft 365, Power Platform  
+**AI & Data:** Python, AI Agents Ecosystems, LangChain, Semantic Search, NoSQL 
 
 ### 📈 Experience Highlights
 - Led major projects across **E-Discovery, Tax, Hospitality, and CMS** domains
