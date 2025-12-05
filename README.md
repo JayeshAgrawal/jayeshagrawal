@@ -1,8 +1,5 @@
 # Jayesh Agrawal
-
-**Technical Lead - Leading Full-Stack Solution Development | .NET, Azure, AI Agent Ecosystems | 11+ Years | E-Discovery, FinTech, SaaS**  
-*Specializing in scalable web applications, CMS platforms, and AI Agentic Ecosystems*
-
+**Technical Lead - Leading Full-Stack Solution Development | E-Discovery, FinTech, SaaS**  
 ---
 
 ### 🛠 Tech Stack
@@ -10,11 +7,12 @@ Backend: .NET, ASP.NET Core, C#, Web API, SQL Server, Entity Framework
 Frontend: Angular, TypeScript, JavaScript, jQuery, HTML/CSS  
 Cloud & DevOps: Azure, Docker, CI/CD, Azure DevOps  
 Microsoft Ecosystem: SharePoint Online, Microsoft 365, Power Platform  
-AI & Data: Python, AI Agents, LangChain, Semantic Search, NoSQL
----
+AI & Data: Python, AI Agents Ecosystems, LangChain, Semantic Search, NoSQL 
 
 ### 📈 Experience Highlights
 - **11+ years** in enterprise software development
+
+- 
 - Led major projects across **E-Discovery, Tax, Hospitality, and CMS** domains
 - Built **custom CMS platforms** with focus on scalability and performance
 - **Technical leadership** of cross-functional Agile teams
