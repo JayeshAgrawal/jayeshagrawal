@@ -1,5 +1,3 @@
----
-
 ### 🛠 Tech Stack
 **Backend:** .NET, ASP.NET Core, C#, Web API, SQL Server, Entity Framework  
 **Frontend:** Angular, TypeScript, JavaScript, jQuery, HTML/CSS  
