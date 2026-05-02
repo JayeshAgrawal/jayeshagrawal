@@ -1,16 +1,17 @@
+## Full Stack Builder | From Idea → Architecture → Production | .NET • C# • Angular • Python • Azure • AI Agents | Designing Scalable Intelligent Platforms
+---
 ### 🛠 Tech Stack
-**Backend:** .NET, ASP.NET Core, C#, Web API, SQL Server, Entity Framework  
+**Backend:** .NET, ASP.NET Core, C#, Web API, SQL Server, Python
 **Frontend:** Angular, TypeScript, JavaScript, jQuery, HTML/CSS  
 **Cloud & DevOps:** Azure, Docker, CI/CD, Azure DevOps  
 **Microsoft Ecosystem:** SharePoint Online, Microsoft 365, Power Platform  
 **AI & Data:** Python, AI Agents Ecosystems, LangChain, Semantic Search, NoSQL 
 
 ### 📈 Experience Highlights
-- Led major projects across **E-Discovery, Tax, Hospitality, and CMS** domains
+- Led major projects across **E-Discovery/Legal Tech, Tax & Financial, Document, and CMS** domains
 - Built **custom CMS platforms** with focus on scalability and performance
 - **Technical leadership** of cross-functional Agile teams
 - **Microsoft technology evangelist** and technical writer
-
 ---
 
 ### ✍️ Technical Writing
