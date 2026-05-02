@@ -1,7 +1,7 @@
 ## Full Stack Builder | From Idea → Architecture → Production | .NET • C# • Angular • Python • Azure • AI Agents | Designing Scalable Intelligent Platforms
 ---
 ### 🛠 Tech Stack
-**Backend:** .NET, ASP.NET Core, C#, Web API, SQL Server, Python
+**Backend:** .NET, ASP.NET Core, C#, Web API, SQL Server, Python, MongoDb
 **Frontend:** Angular, TypeScript, JavaScript, jQuery, HTML/CSS  
 **Cloud & DevOps:** Azure, Docker, CI/CD, Azure DevOps  
 **Microsoft Ecosystem:** SharePoint Online, Microsoft 365, Power Platform  
@@ -35,4 +35,6 @@ Looking to contribute to projects involving:
 - **LinkedIn**: [Jayesh Agrawal](https://www.linkedin.com/in/jayeshagrawal001/)
 - **Blog**: [The Techie Crunch's Blog](https://jayeshagrawal.github.io/)
 - **Email**: jay.agrawal2011@live.com
+
+I’m interested in collaborating with builders, architects, and innovators working on AI-first full-stack systems, cloud-native platforms, and modern full-stack ecosystems that solve complex business challenges at scale.
 
